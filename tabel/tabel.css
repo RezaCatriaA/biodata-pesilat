@@ -1,0 +1,31 @@
+body {
+  background-color: aquamarine;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+
+#tabel-siswa td {
+  padding: 20px;
+}
+
+.link {
+  color: red;
+  text-decoration: none;
+}
+
+.klik {
+  width: 150px;
+  background-color: green;
+}
+
+.klik a {
+  text-decoration: none;
+  color: beige;
+}
+
+.kiri-kanan {
+  display: flex;
+  justify-content: center;
+}
